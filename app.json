@@ -1,0 +1,12 @@
+{
+  "name": "server",
+  "description": "Built with My SPEC support.",
+  "website": "https://github.com/AshleyDouglas2/server",
+  "repository": "https://github.com/AshleyDouglas2/server.git",
+  "keywords": [
+    "nginx",
+    "node",
+    "server",
+    "heroku"
+  ]
+}
